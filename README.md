@@ -25,8 +25,6 @@ https://aafiya-mediretreats-assignment.netlify.app/
 **Google Drive Link:**  
 https://drive.google.com/file/d/1GRAby3LOPlZQ2CjVlEz7U47tAjApfinJ/view?usp=drive_link
 
-> Make sure the Drive access is set to **Anyone with the link can view**.
-
 ---
 
 ## Assignment Objective
