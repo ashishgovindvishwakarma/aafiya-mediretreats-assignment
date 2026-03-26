@@ -9,7 +9,7 @@ It is built using **HTML5, CSS3, JavaScript, jQuery, Bootstrap, Font Awesome, an
 ## Live Project
 
 **Hosted URL:**  
-[Add your Netlify link here]
+https://aafiya-mediretreats-assignment.netlify.app/
 
 ---
 
