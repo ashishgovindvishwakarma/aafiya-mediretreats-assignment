@@ -70,18 +70,13 @@ The objective of this assignment was to recreate the provided webpage design usi
 ## Folder Structure
 
 ```bash
-IDEAMAGIX PROJECT 2026/
+aafiya-mediretreats-assignment/
 ├── .hintrc
 ├── aafiya-logo.png
-├── badge-logo copy.png
 ├── badge-logo.png
-├── book-icon copy.png
 ├── book-icon.png
-├── footer-logo-transparent copy.png
 ├── footer-logo-transparent.png
-├── footer-logo-transparent1 copy.png
 ├── footer-logo-transparent1.png
-├── hero-knee copy.png
 ├── hero-knee.png
 ├── index.html
 ├── join-logo.png
