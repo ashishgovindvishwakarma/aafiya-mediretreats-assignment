@@ -23,7 +23,7 @@ https://aafiya-mediretreats-assignment.netlify.app/
 ## Screen Recording
 
 **Google Drive Link:**  
-[Add your screen recording link here]
+https://drive.google.com/file/d/1GRAby3LOPlZQ2CjVlEz7U47tAjApfinJ/view?usp=drive_link
 
 > Make sure the Drive access is set to **Anyone with the link can view**.
 
